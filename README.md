@@ -5,6 +5,7 @@
 ## That's  what I  am learning here ........... 
 
 1. **Document.queryseletor()***
+1. **Array ***
 1. **Math.Random Method**
 1. **ParseInt()**
 1. **addEventListener** 
